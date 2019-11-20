@@ -5,4 +5,5 @@
 02.format.py<br>
 03.type.py<br>
 04.연산.py<br>
-05.비교_논리연산자.py
+05.비교_논리연산자.py<br>
+06.제어문.py
