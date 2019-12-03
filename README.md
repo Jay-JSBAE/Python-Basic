@@ -12,3 +12,4 @@
 09.반복문(range)<br>
 10.반복문(break,continue).py<br>
 11.지원자료형.py<br>
+12.숫자형.py
