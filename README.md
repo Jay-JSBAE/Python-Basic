@@ -12,7 +12,7 @@
 09.반복문(range)<br>
 10.반복문(break,continue).py<br>
 기초 자료형<br> 
-&nbsp &nbsp - 지원자료형<br>
+&nbsp;- 지원자료형<br>
 &nbsp &nbsp - 숫자형<br>
 &nbsp &nbsp - 문자열<br>
 &nbsp &nbsp - 문자열<br>
