@@ -1,11 +1,11 @@
 # Python
 
 <h3>contents</h3>
-01.escape<br>
-02.format<br>
-03.type<br>
-04.연산<br>
-05.비교_논리연산자<br>
+escape<br>
+format<br>
+type<br>
+연산<br>
+비교_논리연산자<br>
 제어문<br>
 &nbsp &nbsp - for<br>
 &nbsp &nbsp -  while<br>
