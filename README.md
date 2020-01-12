@@ -17,4 +17,6 @@ type<br>
 &nbsp &nbsp - 문자열<br>
 &nbsp &nbsp - 리스트<br>
 &nbsp &nbsp - 튜플<br>
-
+&nbsp &nbsp - 딕셔너리<br>
+&nbsp &nbsp - 집합<br>
+<br>
