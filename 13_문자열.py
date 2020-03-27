@@ -1,6 +1,4 @@
-# chapter03_02
 # 문자형(str)
-# 문자형 중요
 
 # 문자열 생성
 str1 = "I am python"
@@ -21,24 +19,26 @@ print(type(str2_t2), len(str2_t2))
 print()
 
 # 이스케이프 문자 사용
-print("I'm Boy") # 작은 따옴표떄문에 큰따옴표로
+print("I'm Boy") # 작은 따옴표때문에 큰따옴표로
 print('I\'m Boy') # 작은 따옴표안에 작은 따옴표를 쓴다면
-print('a\tb') #tap
+print('a\tb') # tap
 print('a\nb') # enter
+print('a\\b') # 역슬래시 표현
 
 escape_str1 = "Do you have a \"retro games\"?"
-print(escape_str1)
-
 escape_str2 = 'What\'s on TV?'
+print(escape_str1)
 print(escape_str2)
 print()
 
-# 탭, 줄 바꿈
-t_s1 = "Click \t start!"
-t_s2 = "New Line \n check!"
-
-print(t_s1)
-print(t_s2)
+# 멀티라인 입력
+# 역슬러시 사용
+multi_str = """
+string
+multi line
+test
+"""
+print(multi_str)
 print()
 
 # Raw String
