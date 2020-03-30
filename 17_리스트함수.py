@@ -3,6 +3,8 @@ print('>>>>')
 a = [5, 2, 3, 1, 4]
 print('a - ', a)
 
+print(a.index(3))
+
 a.append(6) #append 함수는 마지막 끝에 추가
 print(a)
 
